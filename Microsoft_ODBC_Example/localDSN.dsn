@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=SQL Server
+UID=sa
+DATABASE=x3erpv12
+WSID=ORB709440
+SERVER=127.0.0.1,1435
+Description=Local SQL
